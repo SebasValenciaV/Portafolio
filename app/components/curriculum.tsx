@@ -62,7 +62,7 @@ export default function CurriculumContent({ language }: CurriculumContentProps) 
                 <FaBloggerB size={24} />
               </a>
               <div className="download-container" style={{ textAlign: "center" }}>
-          <a href="/curriculum.pdf" download className="download-button" style={{ color: "#FFFFFF" }}>
+          <a href="/sistemas.pdf" download className="download-button" style={{ color: "#FFFFFF" }}>
             <FaDownload size={20} className="download-icon" />
             <span>{language === "es" ? "Descargar Curriculum PDF" : "Download Resume PDF"}</span>
           </a>
