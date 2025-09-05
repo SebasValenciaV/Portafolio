@@ -106,7 +106,7 @@ Additionally, I have practical experience developing AI prompts that guide model
               {language === "es"
                 ? "Webmaster y Soporte Técnico"
                 : "Webmaster & Technical Support"}{" "}
-              <em>(Jun 2023 – Nov 2024)</em>
+              <em>(Jun 2022 – Nov 2024)</em>
               <br />
               {language === "es"
                 ? "Investigar, analizar datos, manejar información confidencial, reportar hallazgos y encontrar la mejor solución con una ejecución adecuada."
@@ -115,7 +115,7 @@ Additionally, I have practical experience developing AI prompts that guide model
             <li>
               <strong>Ducaplast Sas</strong> –{" "}
               {language === "es" ? " Desarrollador Fullstack Freelance " : "FullStack Developer Freelance"}{" "}
-              <em>(Jun 2024 – Nov 2024)</em>
+              <em>(Nov 2023 – Nov 2024)</em>
               <br />
               {language === "es"
                 ? <>Desarrollar una plataforma de e-commerce (
