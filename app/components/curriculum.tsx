@@ -112,33 +112,7 @@ Additionally, I have practical experience developing AI prompts that guide model
                 ? "Investigar, analizar datos, manejar información confidencial, reportar hallazgos y encontrar la mejor solución con una ejecución adecuada."
                 : "Research, analyze data, handle confidential information, report findings, and identify the best solution with proper execution."}
             </li>
-            <li>
-              <strong>Ducaplast Sas</strong> –{" "}
-              {language === "es" ? " Desarrollador Fullstack Freelance " : "FullStack Developer Freelance"}{" "}
-              <em>(Nov 2023 – Nov 2024)</em>
-              <br />
-              {language === "es"
-                ? <>Desarrollar una plataforma de e-commerce (
-                  <a
-                    
-                    target="_blank"
-                    rel="noreferrer"
-                    className="link"
-                  >
-                   
-                  </a>
-                  ) utilizando Python y Django (SQLite para desarrollo, PostgreSQL en producción) y HTML, JavaScript, CSS y Bootstrap para un front-end responsivo.</>
-                : <>Developed an e-commerce platform (
-                  <a
-                    
-                    target="_blank"
-                    rel="noreferrer"
-                    className="link"
-                  >
-                    
-                  </a>
-                  ) using Python and Django (SQLite for development, PostgreSQL in production) and HTML, JavaScript, CSS, and Bootstrap for a responsive front-end.</>}
-            </li>
+            
             <li>
               <strong>Bancolombia</strong> –{" "}
               {language === "es" ? " Asesor jurídico independiente " : "Independent legal advisor"}{" "}
