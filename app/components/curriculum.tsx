@@ -125,7 +125,7 @@ Additionally, I have practical experience developing AI prompts that guide model
                     rel="noreferrer"
                     className="link"
                   >
-                    ducaplast.com.co
+                   
                   </a>
                   ) utilizando Python y Django (SQLite para desarrollo, PostgreSQL en producción) y HTML, JavaScript, CSS y Bootstrap para un front-end responsivo.</>
                 : <>Developed an e-commerce platform (
@@ -135,7 +135,7 @@ Additionally, I have practical experience developing AI prompts that guide model
                     rel="noreferrer"
                     className="link"
                   >
-                    ducaplast.com.co
+                    
                   </a>
                   ) using Python and Django (SQLite for development, PostgreSQL in production) and HTML, JavaScript, CSS, and Bootstrap for a responsive front-end.</>}
             </li>
