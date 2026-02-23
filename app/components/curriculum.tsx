@@ -120,7 +120,7 @@ Additionally, I have practical experience developing AI prompts that guide model
               {language === "es"
                 ? <>Desarrollar una plataforma de e-commerce (
                   <a
-                    href="https://ducaplast.com.co/"
+                    
                     target="_blank"
                     rel="noreferrer"
                     className="link"
