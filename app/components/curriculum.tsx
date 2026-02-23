@@ -266,12 +266,10 @@ Additionally, I have practical experience developing AI prompts that guide model
           <p className="section-text">
             <strong>{language === "es" ? "Correo:" : "Email:"} </strong>
             <a href="mailto:sebas19-98@hotmail.com" className="link">
-              sebas19-98@hotmail.com
+             
             </a>
           </p>
-          <p className="section-text">
-            <strong>{language === "es" ? "Teléfono:" : "Phone:"} </strong>(+57) 316 8859466
-          </p>
+          
         </div>
       </div>
     </div>
