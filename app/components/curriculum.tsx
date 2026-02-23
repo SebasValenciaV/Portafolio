@@ -263,12 +263,10 @@ Additionally, I have practical experience developing AI prompts that guide model
           <h2 className="section-title">
             {language === "es" ? "Contacto" : "Contact"}
           </h2>
-          <p className="section-text">
-            <strong>{language === "es" ? "Correo:" : "Email:"} </strong>
-            <a href="mailto:sebas19-98@hotmail.com" className="link">
+          
              
-            </a>
-          </p>
+          
+      
           
         </div>
       </div>
