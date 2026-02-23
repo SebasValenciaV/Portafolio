@@ -130,7 +130,7 @@ Additionally, I have practical experience developing AI prompts that guide model
                   ) utilizando Python y Django (SQLite para desarrollo, PostgreSQL en producción) y HTML, JavaScript, CSS y Bootstrap para un front-end responsivo.</>
                 : <>Developed an e-commerce platform (
                   <a
-                    href="https://ducaplast.com.co/"
+                    
                     target="_blank"
                     rel="noreferrer"
                     className="link"
