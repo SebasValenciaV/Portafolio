@@ -674,7 +674,7 @@ function CurriculumContent({ language }) {
                             children: "Sebastian Valencia Vargas"
                         }, void 0, false, {
                             fileName: "[project]/app/components/curriculum.tsx",
-                            lineNumber: 31,
+                            lineNumber: 32,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -685,7 +685,7 @@ function CurriculumContent({ language }) {
                                     children: language === "es" ? "Desarrollador FullStack | Experto en React, Next.js, Node.js y Más" : "FullStack Developer | Expert in React, Next.js, Node.js, and More"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 34,
+                                    lineNumber: 35,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -700,12 +700,12 @@ function CurriculumContent({ language }) {
                                                 size: 24
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/curriculum.tsx",
-                                                lineNumber: 46,
+                                                lineNumber: 47,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 40,
+                                            lineNumber: 41,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -717,12 +717,12 @@ function CurriculumContent({ language }) {
                                                 size: 24
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/curriculum.tsx",
-                                                lineNumber: 54,
+                                                lineNumber: 55,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 48,
+                                            lineNumber: 49,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -734,12 +734,12 @@ function CurriculumContent({ language }) {
                                                 size: 24
                                             }, void 0, false, {
                                                 fileName: "[project]/app/components/curriculum.tsx",
-                                                lineNumber: 62,
+                                                lineNumber: 63,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 56,
+                                            lineNumber: 57,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -748,7 +748,7 @@ function CurriculumContent({ language }) {
                                                 textAlign: "center"
                                             },
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "/curriculum.pdf",
+                                                href: "/sistemas.pdf",
                                                 download: true,
                                                 className: "download-button",
                                                 style: {
@@ -760,37 +760,37 @@ function CurriculumContent({ language }) {
                                                         className: "download-icon"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/curriculum.tsx",
-                                                        lineNumber: 66,
+                                                        lineNumber: 67,
                                                         columnNumber: 13
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                         children: language === "es" ? "Descargar Curriculum PDF" : "Download Resume PDF"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/components/curriculum.tsx",
-                                                        lineNumber: 67,
+                                                        lineNumber: 68,
                                                         columnNumber: 13
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/components/curriculum.tsx",
-                                                lineNumber: 65,
+                                                lineNumber: 66,
                                                 columnNumber: 11
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 64,
+                                            lineNumber: 65,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 39,
+                                    lineNumber: 40,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/curriculum.tsx",
-                            lineNumber: 33,
+                            lineNumber: 34,
                             columnNumber: 11
                         }, this)
                     ]
@@ -807,7 +807,7 @@ function CurriculumContent({ language }) {
                             children: language === "es" ? "Introducción" : "Introduction"
                         }, void 0, false, {
                             fileName: "[project]/app/components/curriculum.tsx",
-                            lineNumber: 77,
+                            lineNumber: 78,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -825,13 +825,13 @@ My exceptional leadership skills allow me to effectively organize tasks and coor
 Additionally, I have practical experience developing AI prompts that guide models to deliver improved accuracy, instruction following, creativity, writing quality, and reasoning, I can design and implement APIs or file exchange for music, games 2D or 3D and ChatBots.`
                         }, void 0, false, {
                             fileName: "[project]/app/components/curriculum.tsx",
-                            lineNumber: 80,
+                            lineNumber: 81,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/curriculum.tsx",
-                    lineNumber: 76,
+                    lineNumber: 77,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -842,7 +842,7 @@ Additionally, I have practical experience developing AI prompts that guide model
                             children: language === "es" ? "Experiencia Profesional" : "Professional Experience"
                         }, void 0, false, {
                             fileName: "[project]/app/components/curriculum.tsx",
-                            lineNumber: 99,
+                            lineNumber: 100,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -854,7 +854,7 @@ Additionally, I have practical experience developing AI prompts that guide model
                                             children: "Granity Estudios"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 105,
+                                            lineNumber: 106,
                                             columnNumber: 15
                                         }, this),
                                         " –",
@@ -862,86 +862,22 @@ Additionally, I have practical experience developing AI prompts that guide model
                                         language === "es" ? "Webmaster y Soporte Técnico" : "Webmaster & Technical Support",
                                         " ",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("em", {
-                                            children: "(Jun 2023 – Nov 2024)"
+                                            children: "(Jun 2022 – Nov 2024)"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 109,
+                                            lineNumber: 110,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 110,
+                                            lineNumber: 111,
                                             columnNumber: 15
                                         }, this),
                                         language === "es" ? "Investigar, analizar datos, manejar información confidencial, reportar hallazgos y encontrar la mejor solución con una ejecución adecuada." : "Research, analyze data, handle confidential information, report findings, and identify the best solution with proper execution."
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 104,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                            children: "Ducaplast Sas"
-                                        }, void 0, false, {
-                                            fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 116,
-                                            columnNumber: 15
-                                        }, this),
-                                        " –",
-                                        " ",
-                                        language === "es" ? " Desarrollador Fullstack Freelance " : "FullStack Developer Freelance",
-                                        " ",
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("em", {
-                                            children: "(Jun 2024 – Nov 2024)"
-                                        }, void 0, false, {
-                                            fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 118,
-                                            columnNumber: 15
-                                        }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                            fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 119,
-                                            columnNumber: 15
-                                        }, this),
-                                        language === "es" ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
-                                            children: [
-                                                "Desarrollar una plataforma de e-commerce (",
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                    href: "https://ducaplast.com.co/",
-                                                    target: "_blank",
-                                                    rel: "noreferrer",
-                                                    className: "link",
-                                                    children: "ducaplast.com.co"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/app/components/curriculum.tsx",
-                                                    lineNumber: 122,
-                                                    columnNumber: 19
-                                                }, this),
-                                                ") utilizando Python y Django (SQLite para desarrollo, PostgreSQL en producción) y HTML, JavaScript, CSS y Bootstrap para un front-end responsivo."
-                                            ]
-                                        }, void 0, true) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
-                                            children: [
-                                                "Developed an e-commerce platform (",
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                    href: "https://ducaplast.com.co/",
-                                                    target: "_blank",
-                                                    rel: "noreferrer",
-                                                    className: "link",
-                                                    children: "ducaplast.com.co"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/app/components/curriculum.tsx",
-                                                    lineNumber: 132,
-                                                    columnNumber: 19
-                                                }, this),
-                                                ") using Python and Django (SQLite for development, PostgreSQL in production) and HTML, JavaScript, CSS, and Bootstrap for a responsive front-end."
-                                            ]
-                                        }, void 0, true)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 115,
+                                    lineNumber: 105,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -950,7 +886,7 @@ Additionally, I have practical experience developing AI prompts that guide model
                                             children: "Bancolombia"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 143,
+                                            lineNumber: 118,
                                             columnNumber: 15
                                         }, this),
                                         " –",
@@ -961,12 +897,12 @@ Additionally, I have practical experience developing AI prompts that guide model
                                             children: "(Dic 2024  –  Mar 2025)"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 145,
+                                            lineNumber: 120,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 146,
+                                            lineNumber: 121,
                                             columnNumber: 15
                                         }, this),
                                         language === "es" ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
@@ -977,7 +913,7 @@ Additionally, I have practical experience developing AI prompts that guide model
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 142,
+                                    lineNumber: 117,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -986,7 +922,7 @@ Additionally, I have practical experience developing AI prompts that guide model
                                             children: "Avianca Holdings"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 155,
+                                            lineNumber: 130,
                                             columnNumber: 15
                                         }, this),
                                         " –",
@@ -997,31 +933,31 @@ Additionally, I have practical experience developing AI prompts that guide model
                                             children: "(Sep 2018 – Mar 2020)"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 159,
+                                            lineNumber: 134,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                             fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 160,
+                                            lineNumber: 135,
                                             columnNumber: 15
                                         }, this),
                                         language === "es" ? "Responsable de inspecciones, reparaciones e instalaciones de componentes en aeronaves comerciales y privadas, colaborando con el equipo para obtener resultados de alta calidad." : "Responsible for inspections, repairs, and component installations on commercial and private aircraft, collaborating with the team to deliver high-quality results."
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 154,
+                                    lineNumber: 129,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/curriculum.tsx",
-                            lineNumber: 102,
+                            lineNumber: 103,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/curriculum.tsx",
-                    lineNumber: 98,
+                    lineNumber: 99,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1032,7 +968,7 @@ Additionally, I have practical experience developing AI prompts that guide model
                             children: language === "es" ? "Habilidades Complementarias" : "Skills"
                         }, void 0, false, {
                             fileName: "[project]/app/components/curriculum.tsx",
-                            lineNumber: 169,
+                            lineNumber: 144,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1040,13 +976,13 @@ Additionally, I have practical experience developing AI prompts that guide model
                             children: language === "es" ? "Experto en TI con experiencia en el diseño y evolución de servicios y arquitecturas innovadoras. Domino el levantamiento de requisitos, la gestión de cambios y el análisis de demanda, complementado por conocimientos en marketing, normativas legales y certificación digital para asegurar la continuidad y seguridad." : "IT expert with proven experience in designing and evolving innovative services and architectures. Skilled in requirements gathering, change management, and demand analysis, complemented by expertise in marketing, legal regulations, and digital certification to ensure the continuity and security of critical systems."
                         }, void 0, false, {
                             fileName: "[project]/app/components/curriculum.tsx",
-                            lineNumber: 172,
+                            lineNumber: 147,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/curriculum.tsx",
-                    lineNumber: 168,
+                    lineNumber: 143,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1057,7 +993,7 @@ Additionally, I have practical experience developing AI prompts that guide model
                             children: language === "es" ? "Habilidades" : "Skills"
                         }, void 0, false, {
                             fileName: "[project]/app/components/curriculum.tsx",
-                            lineNumber: 182,
+                            lineNumber: 157,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1065,7 +1001,7 @@ Additionally, I have practical experience developing AI prompts that guide model
                             children: language === "es" ? "JavaScript TypeScript Python PHP C++ Next.js React.js Node.js Vite HTML CSS/Bootstrap Django MySQL PostgreSQL MongoDB .NET Angular" : "JavaScript TypeScript Python PHP C++ Next.js React.js Node.js Vite HTML CSS/Bootstrap Django MySQL PostgreSQL MongoDB .NET Angular"
                         }, void 0, false, {
                             fileName: "[project]/app/components/curriculum.tsx",
-                            lineNumber: 185,
+                            lineNumber: 160,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1075,131 +1011,131 @@ Additionally, I have practical experience developing AI prompts that guide model
                                     title: "JavaScript"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 192,
+                                    lineNumber: 167,
                                     columnNumber: 3
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$si$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SiTypescript"], {
                                     title: "TypeScript"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 193,
+                                    lineNumber: 168,
                                     columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FaPython"], {
                                     title: "Python"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 194,
+                                    lineNumber: 169,
                                     columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FaPhp"], {
                                     title: "PHP"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 195,
+                                    lineNumber: 170,
                                     columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$si$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SiCplusplus"], {
                                     title: "C++"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 196,
+                                    lineNumber: 171,
                                     columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$si$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SiNextdotjs"], {
                                     title: "Next.js"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 197,
+                                    lineNumber: 172,
                                     columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FaReact"], {
                                     title: "React.js"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 198,
+                                    lineNumber: 173,
                                     columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FaNode"], {
                                     title: "Node.js"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 199,
+                                    lineNumber: 174,
                                     columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$si$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SiVite"], {
                                     title: "Vite"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 200,
+                                    lineNumber: 175,
                                     columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FaHtml5"], {
                                     title: "HTML"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 201,
+                                    lineNumber: 176,
                                     columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FaCss3Alt"], {
                                     title: "CSS/Bootstrap"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 202,
+                                    lineNumber: 177,
                                     columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$si$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SiDjango"], {
                                     title: "Django"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 203,
+                                    lineNumber: 178,
                                     columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$si$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SiMysql"], {
                                     title: "MySQL"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 204,
+                                    lineNumber: 179,
                                     columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$si$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SiPostgresql"], {
                                     title: "PostgreSQL"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 205,
+                                    lineNumber: 180,
                                     columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$si$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SiMongodb"], {
                                     title: "MongoDB"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 206,
+                                    lineNumber: 181,
                                     columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$si$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SiDotnet"], {
                                     title: ".NET"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 207,
+                                    lineNumber: 182,
                                     columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$si$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["SiAngular"], {
                                     title: "Angular"
                                 }, void 0, false, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 208,
+                                    lineNumber: 183,
                                     columnNumber: 7
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/curriculum.tsx",
-                            lineNumber: 191,
+                            lineNumber: 166,
                             columnNumber: 3
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/curriculum.tsx",
-                    lineNumber: 181,
+                    lineNumber: 156,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1210,7 +1146,7 @@ Additionally, I have practical experience developing AI prompts that guide model
                             children: language === "es" ? "Educación y Cursos" : "Education & Courses"
                         }, void 0, false, {
                             fileName: "[project]/app/components/curriculum.tsx",
-                            lineNumber: 219,
+                            lineNumber: 194,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -1222,12 +1158,120 @@ Additionally, I have practical experience developing AI prompts that guide model
                                             children: "Institución Universitaria Pascual Bravo"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 224,
+                                            lineNumber: 199,
                                             columnNumber: 15
                                         }, this),
                                         " –",
                                         " ",
                                         language === "es" ? "Desarrollador de Software (2020 – 2024)" : "Software Developer (2020 – 2024)"
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/app/components/curriculum.tsx",
+                                    lineNumber: 198,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                            children: "Academia Antioqueña de Aviación"
+                                        }, void 0, false, {
+                                            fileName: "[project]/app/components/curriculum.tsx",
+                                            lineNumber: 204,
+                                            columnNumber: 15
+                                        }, this),
+                                        " –",
+                                        " ",
+                                        language === "es" ? "Técnico en Mantenimiento de Aeronaves (2016 – 2020)" : "Aircraft Maintenance Technician (2016 – 2020)"
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/app/components/curriculum.tsx",
+                                    lineNumber: 203,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                            children: "Colegio La Salle de CampoAmor - Medellín"
+                                        }, void 0, false, {
+                                            fileName: "[project]/app/components/curriculum.tsx",
+                                            lineNumber: 208,
+                                            columnNumber: 15
+                                        }, this),
+                                        " –",
+                                        " ",
+                                        language === "es" ? "Diploma de Educación Media (2008 – 2015)" : "High School Diploma (2008 – 2015)"
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/app/components/curriculum.tsx",
+                                    lineNumber: 207,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                            children: "I.E Pascual Bravo"
+                                        }, void 0, false, {
+                                            fileName: "[project]/app/components/curriculum.tsx",
+                                            lineNumber: 212,
+                                            columnNumber: 15
+                                        }, this),
+                                        " –",
+                                        " ",
+                                        language === "es" ? "(POO) Programacion Orientada a Objetos (38 Hrs, 2024)" : "(OOP) Object-Oriented Programming (50 Hrs, 2024)"
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/app/components/curriculum.tsx",
+                                    lineNumber: 211,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                            children: "I.E Pascual Bravo"
+                                        }, void 0, false, {
+                                            fileName: "[project]/app/components/curriculum.tsx",
+                                            lineNumber: 216,
+                                            columnNumber: 15
+                                        }, this),
+                                        " –",
+                                        " ",
+                                        language === "es" ? "(POE) Programacion Orientada a Eventos (38 Hrs, 2024)" : "(EDP) Event-Driven  Programming (50 Hrs, 2024)"
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/app/components/curriculum.tsx",
+                                    lineNumber: 215,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                            children: "I.E Pascual Bravo"
+                                        }, void 0, false, {
+                                            fileName: "[project]/app/components/curriculum.tsx",
+                                            lineNumber: 220,
+                                            columnNumber: 15
+                                        }, this),
+                                        " –",
+                                        " ",
+                                        language === "es" ? "Seguridad Informática / IT Essentials (50 Hrs, 2024)" : "Information Security / IT Essentials (50 Hrs, 2024)"
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/app/components/curriculum.tsx",
+                                    lineNumber: 219,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                            children: "Udemy"
+                                        }, void 0, false, {
+                                            fileName: "[project]/app/components/curriculum.tsx",
+                                            lineNumber: 224,
+                                            columnNumber: 15
+                                        }, this),
+                                        " –",
+                                        " ",
+                                        language === "es" ? "Desarrollo Web/App Frontend y Backend (100 Hrs, 2024)" : "Front and Backend Web/App Development (38 Hrs, 2024)"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/curriculum.tsx",
@@ -1237,118 +1281,10 @@ Additionally, I have practical experience developing AI prompts that guide model
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                            children: "Academia Antioqueña de Aviación"
-                                        }, void 0, false, {
-                                            fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 229,
-                                            columnNumber: 15
-                                        }, this),
-                                        " –",
-                                        " ",
-                                        language === "es" ? "Técnico en Mantenimiento de Aeronaves (2016 – 2020)" : "Aircraft Maintenance Technician (2016 – 2020)"
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 228,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                            children: "Colegio La Salle de CampoAmor - Medellín"
-                                        }, void 0, false, {
-                                            fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 233,
-                                            columnNumber: 15
-                                        }, this),
-                                        " –",
-                                        " ",
-                                        language === "es" ? "Diploma de Educación Media (2008 – 2015)" : "High School Diploma (2008 – 2015)"
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 232,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                            children: "I.E Pascual Bravo"
-                                        }, void 0, false, {
-                                            fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 237,
-                                            columnNumber: 15
-                                        }, this),
-                                        " –",
-                                        " ",
-                                        language === "es" ? "(POO) Programacion Orientada a Objetos (38 Hrs, 2024)" : "(OOP) Object-Oriented Programming (50 Hrs, 2024)"
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 236,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                            children: "I.E Pascual Bravo"
-                                        }, void 0, false, {
-                                            fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 241,
-                                            columnNumber: 15
-                                        }, this),
-                                        " –",
-                                        " ",
-                                        language === "es" ? "(POE) Programacion Orientada a Eventos (38 Hrs, 2024)" : "(EDP) Event-Driven  Programming (50 Hrs, 2024)"
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 240,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                            children: "I.E Pascual Bravo"
-                                        }, void 0, false, {
-                                            fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 245,
-                                            columnNumber: 15
-                                        }, this),
-                                        " –",
-                                        " ",
-                                        language === "es" ? "Seguridad Informática / IT Essentials (50 Hrs, 2024)" : "Information Security / IT Essentials (50 Hrs, 2024)"
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 244,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                            children: "Udemy"
-                                        }, void 0, false, {
-                                            fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 249,
-                                            columnNumber: 15
-                                        }, this),
-                                        " –",
-                                        " ",
-                                        language === "es" ? "Desarrollo Web/App Frontend y Backend (100 Hrs, 2024)" : "Front and Backend Web/App Development (38 Hrs, 2024)"
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 248,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                    children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                             children: "Eafit University"
                                         }, void 0, false, {
                                             fileName: "[project]/app/components/curriculum.tsx",
-                                            lineNumber: 253,
+                                            lineNumber: 228,
                                             columnNumber: 15
                                         }, this),
                                         " –",
@@ -1357,84 +1293,34 @@ Additionally, I have practical experience developing AI prompts that guide model
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 252,
+                                    lineNumber: 227,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/app/components/curriculum.tsx",
-                            lineNumber: 222,
+                            lineNumber: 197,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/components/curriculum.tsx",
-                    lineNumber: 218,
+                    lineNumber: 193,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "curriculum-section",
-                    children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                            className: "section-title",
-                            children: language === "es" ? "Contacto" : "Contact"
-                        }, void 0, false, {
-                            fileName: "[project]/app/components/curriculum.tsx",
-                            lineNumber: 263,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "section-text",
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                    children: [
-                                        language === "es" ? "Correo:" : "Email:",
-                                        " "
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 267,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                    href: "mailto:sebas19-98@hotmail.com",
-                                    className: "link",
-                                    children: "sebas19-98@hotmail.com"
-                                }, void 0, false, {
-                                    fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 268,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/app/components/curriculum.tsx",
-                            lineNumber: 266,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "section-text",
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                    children: [
-                                        language === "es" ? "Teléfono:" : "Phone:",
-                                        " "
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/app/components/curriculum.tsx",
-                                    lineNumber: 273,
-                                    columnNumber: 13
-                                }, this),
-                                "(+57) 316 8859466"
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/app/components/curriculum.tsx",
-                            lineNumber: 272,
-                            columnNumber: 11
-                        }, this)
-                    ]
-                }, void 0, true, {
+                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                        className: "section-title",
+                        children: language === "es" ? "Contacto" : "Contact"
+                    }, void 0, false, {
+                        fileName: "[project]/app/components/curriculum.tsx",
+                        lineNumber: 238,
+                        columnNumber: 11
+                    }, this)
+                }, void 0, false, {
                     fileName: "[project]/app/components/curriculum.tsx",
-                    lineNumber: 262,
+                    lineNumber: 237,
                     columnNumber: 9
                 }, this)
             ]
