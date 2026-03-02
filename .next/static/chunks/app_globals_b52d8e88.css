@@ -1,0 +1,367 @@
+/* [project]/app/globals.css [app-client] (css) */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.matrix-canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.language-switcher {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.language-switcher button {
+  padding: .5rem .75rem;
+  border: 1px solid #fff;
+  background-color: #0000;
+  color: #fff;
+  border-radius: .375rem;
+  margin-right: .5rem;
+  transition: background-color .3s, color .3s;
+  cursor: pointer;
+}
+
+.language-switcher button:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.login-register-container {
+  margin: 1rem auto;
+  text-align: center;
+  max-width: 400px;
+}
+
+.login-register-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .75rem;
+  margin-top: .5rem;
+}
+
+.login-register-form input {
+  padding: .75rem 1rem;
+  width: 250px;
+  border: 1px solid #fff;
+  background: #ffffff1a;
+  color: #fff;
+  border-radius: .375rem;
+  transition: background-color .3s, border-color .3s, box-shadow .3s;
+  margin: .5rem 0;
+}
+
+.login-register-form input::placeholder {
+  color: #ccc;
+}
+
+.login-register-form input:focus {
+  outline: none;
+  border-color: #0f0;
+  background: #fff3;
+  box-shadow: 0 0 5px #00ff0080;
+}
+
+.login-register-form button {
+  padding: .75rem 1.5rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+  border: 1px solid #fff;
+  background-color: #0000;
+  color: #fff;
+  border-radius: .5rem;
+  box-shadow: 0 4px 6px #0000001a;
+  transition: background-color .3s, color .3s;
+  cursor: pointer;
+  margin: .5rem;
+}
+
+.login-register-form button:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.login-register-message {
+  margin-top: .5rem;
+  color: #0f0;
+  font-weight: bold;
+}
+
+.hero {
+  padding: 5rem 0;
+  text-align: center;
+  background-color: #0000;
+}
+
+.hero-title {
+  font-size: 2.25rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #fff;
+  text-shadow: 0 0 5px #fff;
+  transition: color .3s;
+}
+
+.hero-subtitle {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+  color: #fff;
+  text-shadow: 0 0 3px #fff;
+  transition: color .3s;
+}
+
+.hero-btn {
+  padding: .5rem .75rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border: 1px solid #fff;
+  background-color: #0000;
+  color: #fff;
+  border-radius: .375rem;
+  box-shadow: 0 4px 6px #0000001a;
+  transition: background-color .3s, color .3s;
+  cursor: pointer;
+  margin: .5rem;
+}
+
+.hero-btn.secondary {
+  background-color: #0000;
+}
+
+.hero-btn:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+.slider-container {
+  position: relative;
+  width: 90%;
+  max-width: 500px;
+  margin: 2rem auto;
+  overflow: hidden;
+  border-radius: .5rem;
+}
+
+.slider-image {
+  width: 100%;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.slider-image.active {
+  opacity: 1;
+  position: relative;
+}
+
+.curriculum-container {
+  background-color: #000c;
+  min-height: 100vh;
+  padding: 2.5rem 1rem;
+  color: #fff;
+}
+
+.curriculum-grid {
+  max-width: 1152px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+@media (width >= 768px) {
+  .curriculum-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .curriculum-header {
+    grid-column: span 2;
+  }
+}
+
+.curriculum-header {
+  background-color: #00000080;
+  padding: 1.5rem;
+  border-radius: .5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-image {
+  position: relative;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 9rem;
+  height: 9rem;
+  border: 4px solid #22c55e;
+  margin-bottom: 1rem;
+}
+
+.profile-name {
+  font-size: 2.25rem;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 0 0 5px #fff;
+}
+
+.header-extra {
+  text-align: center;
+}
+
+.profile-description {
+  font-size: 1.125rem;
+  margin-top: .5rem;
+  color: #fff;
+  text-shadow: 0 0 3px #fff;
+}
+
+.social-icons-header {
+  margin-top: .5rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-link {
+  color: #fff;
+  transition: color .3s;
+}
+
+.social-link:hover {
+  color: #0f0;
+}
+
+.curriculum-section {
+  background-color: #00000080;
+  padding: 1.5rem;
+  border-radius: .5rem;
+}
+
+.section-title {
+  font-size: 1.875rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #0f0;
+  text-shadow: 0 0 5px #0f0;
+}
+
+.section-text {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #fff;
+}
+
+.section-list {
+  list-style-type: disc;
+  padding-left: 1rem;
+  color: #fff;
+  margin: 0;
+}
+
+.section-list li {
+  margin-bottom: .5rem;
+}
+
+.link {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.ai-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  background: #000000bf;
+  border: 1px solid #fff;
+  border-radius: 8px;
+  color: #fff;
+}
+
+.ai-input-container {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.ai-input {
+  flex: 1;
+  padding: .8rem;
+  background: #ffffff1a;
+  border: 1px solid #fff;
+  color: #fff;
+  border-radius: 4px;
+  outline: none;
+  transition: border-color .3s;
+}
+
+.ai-input:focus {
+  border-color: #0f0;
+}
+
+.ai-ask-btn {
+  padding: .8rem 1.5rem;
+  background: #0f0;
+  color: #ddd;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background .3s;
+}
+
+.ai-ask-btn:hover {
+  background: #525252;
+}
+
+.ai-ask-btn:disabled {
+  opacity: .7;
+  cursor: not-allowed;
+}
+
+.ai-response {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: #001e00e6;
+  border: 1px solid #0f0;
+  border-radius: 4px;
+  white-space: pre-wrap;
+}
+
+.tech-icons-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.tech-icons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.tech-icons svg {
+  font-size: 40px;
+  color: #fff;
+  transition: transform .3s ease-in-out;
+}
+
+.tech-icons svg:hover {
+  transform: scale(1.2);
+}
+
+/*# sourceMappingURL=app_globals_b52d8e88.css.map*/

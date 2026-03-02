@@ -22,6 +22,7 @@ export default function CurriculumContent({ language }: CurriculumContentProps) 
         <div className="curriculum-header">
           <div className="profile-image">
             <Image
+            
               src="/Foto gafas.jpeg"
               alt="Profile Image"
               fill
